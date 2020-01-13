@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using CarLibrary;
+﻿using CarLibrary;
+using System;
 
 namespace SharedCarLibClient
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("***** Shared Assembly Client *****");
             SportsCar c = new SportsCar();

@@ -34,8 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CarLibrary">
-      <HintPath>..\CarLibrary\bin\Debug\CarLibrary.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\CarLibrary\obj\Debug\CarLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
